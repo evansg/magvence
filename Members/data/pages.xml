@@ -1,0 +1,5 @@
+
+<pages preload="true">
+    <page id="1" shadow="true" source="content/pages/page1.jpg" thumb="content/thumbs/page1.jpg"></page>
+    <page id="2" shadow="true" source="content/pages/page2.jpg" thumb="content/thumbs/page2.jpg"></page>
+</pages>
